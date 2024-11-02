@@ -1,0 +1,7 @@
+LCD.c:15:6:LCD_I2C_Write_CMD	32	static
+LCD.c:19:6:LCD_I2C_Write_DATA	32	static
+LCD.c:23:6:LCD_I2C_Init	8	static
+LCD.c:32:6:LCD_I2C_Clear	8	static
+LCD.c:36:6:LCD_I2C_Location	16	static
+LCD.c:44:6:LCD_I2C_Write_String	32	static
+LCD.c:49:6:LCD_I2C_Write_Number	24	static
